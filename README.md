@@ -37,3 +37,5 @@ Access live site [WeatherDashboard](https://donl44.github.io/weather-dashboard/)
 ### Screenshots:
 
 ![ScreenShot](https://raw.githubusercontent.com/DonL44/weather-dashboard/develop/assets/images/weather-dashboard.png)
+
+Developed by Don L
