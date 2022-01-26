@@ -1,4 +1,4 @@
-# weather-dashboard
+# Weather-Dashboard
 
 ## Purpose
 A web-based dashboard built to show the current weather in a city of choice and the upcoming five (5) day forecast for that city
